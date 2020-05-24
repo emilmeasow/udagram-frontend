@@ -20,4 +20,4 @@ RUN npm run build
 EXPOSE 8080
 
 # Define the Docker image's behavior at runtime
-RUN npm run server
+RUN npm run start
